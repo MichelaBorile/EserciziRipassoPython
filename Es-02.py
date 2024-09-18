@@ -1,0 +1,1 @@
+#2) Trovo il fattoriale di un numero inserito in input
